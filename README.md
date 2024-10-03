@@ -5,7 +5,7 @@
 
 💞️ I’m looking to collaborate on projects related to web development, automation, and AI/ML.
 
-📫 How to reach me: Feel free to reach out via email at abhisucrose@gmail.com, or connect with me on LinkedIn.
+📫 How to reach me: Feel free to reach out via email at abhisucrose@gmail.com, or connect with me on LinkedIn https://www.linkedin.com/in/kumarabhishek1997/.
 
 <!---
 Abhiiiii1997/Abhiiiii1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
